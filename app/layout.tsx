@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     },
     verification: {
         google: 'YOilIlh7W-HelGkiPR3k0Uknu38dPXwO_RhQ3avgfMw',
-        yandex: '',
+        yandex: '4ce35328f2dbf5d3',
     },
 };
 
